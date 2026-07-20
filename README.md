@@ -2,6 +2,8 @@
 
 A **DSA-focused Smart City Navigation System** that demonstrates graph algorithms, route optimization, traffic simulation, and location-based services.
 
+
+        Deployed Link:- https://smart-city-navigation-platform.vercel.app
 ---
 
 ## ✨ Features
